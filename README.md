@@ -3,7 +3,7 @@
 ## 🪐 Physics Graduate | AI/ML Enthusiast | Software Developer
 
 <p align="center">
-  <img src="./profile.jpg" width="100%" style="max-width: 736px; max-height:972px">
+  <img src="./profile.jpg" width="300">
 </p>
 
 ## 🚀 Featured Projects
