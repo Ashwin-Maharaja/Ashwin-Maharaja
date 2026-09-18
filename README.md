@@ -1,6 +1,6 @@
-# Hi, I'm Ashwin 👋
+# 👋 Hi, I'm Ashwin
 
-# Physics Graduate | AI/ML Enthusiast | Software Developer
+## 🪐 Physics Graduate | AI/ML Enthusiast | Software Developer
 
 <p align="center">
   <img src="./profile.jpg" width="100%">
