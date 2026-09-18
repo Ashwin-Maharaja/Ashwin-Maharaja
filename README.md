@@ -1,16 +1,10 @@
+# Hi, I'm Ashwin 👋
+
+### Physics Graduate | AI/ML Enthusiast | Software Developer
+
 <p align="center">
   <img src="./profile.jpg" width="100%">
 </p>
-
-# Hi, I'm Ashwin 👋
-
-### MCA Student | AI/ML Enthusiast | Software Developer
-
-I'm an MCA student interested in **Artificial Intelligence, Machine Learning, Software Development, and Systems Programming**.
-
-I enjoy building projects that combine practical software engineering with problem solving.
-
----
 
 ## 🚀 Featured Projects
 
